@@ -1,2 +1,4 @@
 app: 'DWC'
 title: Hello
+endpoints:
+  shipments: 'app/:id/shipments/'

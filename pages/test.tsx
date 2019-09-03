@@ -3,7 +3,7 @@ import config from '@config';
 
 class Test extends Component {
     render() {
-        console.log(config.get('app'));
+        console.log(config.get('endpoints.shipments'));
         return (
             <div>
                 <p>Hi</p>
