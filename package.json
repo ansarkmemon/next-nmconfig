@@ -1,0 +1,16 @@
+{
+  "name": "next-trial",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "9.0.5",
+    "node-nmconfig": "^1.2.2",
+    "react": "16.9.0",
+    "react-dom": "16.9.0"
+  }
+}
